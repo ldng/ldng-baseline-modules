@@ -1,0 +1,88 @@
+{
+  "id": "ldng-baseline-modules",
+  "title": "Ldng baseline modules",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "breaktime",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "combat-tracker-dock",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "cursor-hider",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "minimal-ui",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "permission_viewer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "pings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "popout",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tidy-ui_game-settings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "user-latency",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "LockView",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "autocomplete-whisper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "scene-express",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-scene-navigation",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
