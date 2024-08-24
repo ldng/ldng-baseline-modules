@@ -1,7 +1,8 @@
 {
   "id": "ldng-baseline-modules",
   "title": "Ldng baseline modules",
-  "version": "1.0.0",
+  "version": "0.0.0",
+  "url": "https://github.com/ldng/ldng-baseline-module",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -84,5 +85,7 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "manifest": "__PLACEHOLDER__",
+  "download": "__PLACEHOLDER__"
 }
