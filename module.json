@@ -60,11 +60,6 @@
         "compatibility": {}
       },
       {
-        "id": "user-latency",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "LockView",
         "type": "module",
         "compatibility": {}
