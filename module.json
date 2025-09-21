@@ -4,18 +4,12 @@
   "version": "0.0.0",
   "url": "https://github.com/ldng/ldng-baseline-modules",
   "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+    "minimum": "13"
   },
   "relationships": {
-    "requires": [
+    "recommends": [
       {
         "id": "breaktime",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "combat-tracker-dock",
         "type": "module",
         "compatibility": {}
       },
@@ -50,17 +44,7 @@
         "compatibility": {}
       },
       {
-        "id": "tidy-ui_game-settings",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "token-action-hud-core",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "LockView",
         "type": "module",
         "compatibility": {}
       },
@@ -75,7 +59,7 @@
         "compatibility": {}
       },
       {
-        "id": "monks-scene-navigation",
+        "id": "your-turn",
         "type": "module",
         "compatibility": {}
       }
