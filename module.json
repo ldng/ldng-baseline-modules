@@ -24,7 +24,7 @@
         "compatibility": {}
       },
       {
-        "id": "minimal-ui",
+        "id": "dice-tray",
         "type": "module",
         "compatibility": {}
       },
@@ -44,22 +44,17 @@
         "compatibility": {}
       },
       {
-        "id": "token-action-hud-core",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "autocomplete-whisper",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "scene-express",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "your-turn",
+        "id": "simplefog",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-action-hud-core",
         "type": "module",
         "compatibility": {}
       }
